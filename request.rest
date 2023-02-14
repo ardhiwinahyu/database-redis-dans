@@ -1,0 +1,22 @@
+GET http://localhost:3000/artikel
+# POST http://localhost:3000/artikel/buat-artikel
+# Content-Type: application/json
+
+# {
+# 	"judul" : "Tes dong lagi ah",
+# 	"isiArtikel" : "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Tenetur exercitationem numquam dolores placeat aliquid saepe dolore possimus provident asperiores quia.",
+# 	"penulis" : "Ujang"
+# }
+
+
+
+#DELETE http://localhost:3000/mahasiswa/23456
+
+#POST http://localhost:3000/mahasiswa/daftar
+# Content-Type: application/json
+
+# {
+# 	"nama" : "Jojon",
+# 	"email" : "askdflja@gmial.com",
+# 	"nim" : 23456
+# }
